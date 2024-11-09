@@ -22,7 +22,7 @@ This project is a **React-based Ecommerce Application** that allows users to buy
 
 ### Live Demo
 
-_[Link]()_
+_[Link](https://shoppyglobe-react.netlify.app/)_
 
 ---
 
